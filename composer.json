@@ -1,0 +1,20 @@
+{
+    "name": "yeewiz/cli-command",
+    "description": "Playing with WP CLI Custom Commands",
+    "type": "wp-cli-package",
+    "homepage": "https://github.com/yeewiz/cli-commands.git",
+    "license": "MIT",
+    "authors": [
+        {
+                "name": "Yeewiz",
+                "email": "yee@yeewiz.com",
+                "homepage": "https://www.yeewiz.com"
+            }
+        ],
+    "require": {
+        "php": ">=5.3.29"
+    },
+    "autoload": {
+        "files": [ "command.php" ]
+    }
+}
