@@ -1,5 +1,5 @@
 {
-    "name": "yeewiz/cli-command",
+    "name": "yeewiz/cli-commands",
     "description": "Playing with WP CLI Custom Commands",
     "type": "wp-cli-package",
     "homepage": "https://github.com/yeewiz/cli-commands.git",
