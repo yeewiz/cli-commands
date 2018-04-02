@@ -7,7 +7,7 @@ class Foo_Command {
       'end' => '',
     ) );
     
-    WP_CLI::line( $arguments['start'] . ' ' . $arguments['end'] );
+    WP_CLI::line( 'yes' );
   }
 }
 
